@@ -1,0 +1,34 @@
+﻿生成启动时间为 2020/8/29 18:52:46。
+     1>项目“G:\冯总作业\Client\RelClient\RelClient.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RelClient.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\RelClient.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RelClientDlg.cpp
+         RelClientDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\冯总作业\Client\Debug\RelClient.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\RelClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\冯总作业\Client\Debug\RelClient.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\冯总作业\Client\Debug\RelClient.lib" /MACHINE:X86 Debug\RelClient.res
+         Debug\RelClient.exe.embed.manifest.res
+         Debug\CreateUser.obj
+         Debug\Login.obj
+         Debug\RelClient.obj
+         Debug\RelClientDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RelClient.exe.embed.manifest" /manifest Debug\RelClient.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         RelClient.vcxproj -> G:\冯总作业\Client\Debug\RelClient.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RelClient.unsuccessfulbuild”。
+         正在对“Debug\RelClient.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\冯总作业\Client\RelClient\RelClient.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.92

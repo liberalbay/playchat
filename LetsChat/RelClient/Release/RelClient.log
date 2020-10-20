@@ -1,0 +1,36 @@
+﻿生成启动时间为 2020/8/29 18:45:22。
+     1>项目“G:\冯总作业\Client\RelClient\RelClient.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\RelClient.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\RelClient.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\RelClient.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\RelClient.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CreateUser.cpp Login.cpp RelClient.cpp RelClientDlg.cpp
+         CreateUser.cpp
+         Login.cpp
+         RelClient.cpp
+         RelClientDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\RelClient.res" RelClient.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\冯总作业\Client\Release\RelClient.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\RelClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\冯总作业\Client\Release\RelClient.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\冯总作业\Client\Release\RelClient.lib" /MACHINE:X86 Release\RelClient.res
+         Release\CreateUser.obj
+         Release\Login.obj
+         Release\RelClient.obj
+         Release\RelClientDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         RelClient.vcxproj -> G:\冯总作业\Client\Release\RelClient.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\冯总作业\Client\Release\RelClient.exe;#1" /manifest Release\RelClient.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\RelClient.unsuccessfulbuild”。
+         正在对“Release\RelClient.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\冯总作业\Client\RelClient\RelClient.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.76
